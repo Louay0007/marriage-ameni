@@ -1,0 +1,8 @@
+node_modules
+dist
+coverage
+storage
+package-lock.json
+.env*
+implementation-plan.md
+marriage-contract-technical-spec.md

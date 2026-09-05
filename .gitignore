@@ -1,0 +1,17 @@
+node_modules/
+dist/
+coverage/
+.env
+.env.*
+!.env.example
+storage/signatures/*
+storage/pdfs/*
+server/storage/
+!storage/signatures/.gitkeep
+!storage/pdfs/.gitkeep
+.DS_Store
+*.log
+*.tsbuildinfo
+backups/
+test-results/
+playwright-report/

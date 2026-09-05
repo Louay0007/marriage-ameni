@@ -1,0 +1,15 @@
+:root {
+  --parchment: #efe7d5;
+  --paper: #fffdf7;
+  --ink: #2b2a28;
+  --ink-soft: #514d47;
+  --ink-muted: #7c7469;
+  --wine: #7a1f2b;
+  --sage: #5c6b4f;
+  --gold: #b08d57;
+  --gold-dark: #8e6b37;
+  --focus: #176f8f;
+  --font-display: 'Playfair Display', Georgia, serif;
+  --font-document: 'EB Garamond', Georgia, serif;
+  --font-ui: 'Inter', sans-serif;
+}
