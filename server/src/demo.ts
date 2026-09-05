@@ -28,6 +28,7 @@ const config: Config = {
   sessionTtlSeconds: 86_400,
   maxSignatureBytes: 2_097_152,
   puppeteerExecutablePath:
+    process.env.PUPPETEER_EXECUTABLE_PATH ??
     '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
 };
 
